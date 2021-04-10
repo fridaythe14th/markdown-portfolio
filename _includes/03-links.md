@@ -1,1 +1,1 @@
-[fr1daythe14th Github] (https://github.com/fridaythe14th)
+[fr1daythe14th](https://github.com/fridaythe14th)
