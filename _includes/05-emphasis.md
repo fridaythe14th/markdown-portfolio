@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_Hello __fr1dathe14th__ here_. __I like to **code** and to **learn new things**.__
